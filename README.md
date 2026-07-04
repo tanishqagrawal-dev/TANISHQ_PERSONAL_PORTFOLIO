@@ -106,6 +106,6 @@ I am currently open to exciting opportunities, internships, and collaborative pr
 
 ---
 <div align="center">
-  <p>Engineered with pixel-perfect precision and ❤️ by <strong>Tanishq Agrawal</strong></p>
+  <p>Engineered with pixel-perfect precision and ❤️ by <strong>Tanishq Agrjjawal</strong></p>
   <p><em>© 2026. All rights reserved.</em></p>
 </div>
